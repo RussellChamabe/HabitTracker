@@ -1,2 +1,26 @@
-# HabitTracker
-The Habit Tracker is a Python programme that helps users stay organised and consistent with their daily routines. I created it to help myself and others remember important tasks each day. It allows you to add, remove, and view habits in a simple table to track daily progress.
+The Habit Tracker is a simple command line Python programme designed to help users build better daily routines.
+I created this project because I often forget what I need to do during the day, and I realised that a tool like this could help both me and others stay organised and consistent.
+
+Features
+Create a personalised list of habits or tasks
+Add or remove habits as needed
+Display daily habits in a clear, organised table using pandas
+Keep track of progress day by day
+
+It is a beginner friendly project focused on developing practical programming skills in Python while solving a real everyday problem, which is staying consistent with good habits.
+
+Technologies Used
+Python 3.14
+Pandas (used for displaying habits in a table)
+
+How to Run
+Open Command Prompt or Terminal.
+
+Navigate to the project folder. The path below is just an example showing where the HabitTracker folder might be located.
+Find your own HabitTracker folder and open the subfolder named TrackMyHabits, which contains the two Python files(main.py and user.py).
+
+Example command to type in Command Prompt: cd "C:\Users\robby\Downloads\HabitTracker\TrackMyHabits"
+
+Future Improvements
+
+Allow users to mark habits as Completed or Not Completed directly in the table Enable saving and loading of progress automatically Add a simple graphical interface in the future
